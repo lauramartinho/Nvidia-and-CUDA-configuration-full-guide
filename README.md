@@ -85,6 +85,19 @@ Add the CUDA path in the end of the file.
 ~~~
 export PATH=/usr/local/cuda-<version>/bin${PATH:+:${PATH}}
 ~~~
+Save by `ctr+o` + `enter` and exit the file by `ctr+x`. You have to reload the file by the command:
+~~~
+. ~/.bashrc
+~~~
+
+Now is time to check your installation with `nvcc -v` or `nvcc --version`:
+~~~
+nvcc --version
+~~~
+![Captura de tela de 2024-11-29 09-24-50](https://github.com/user-attachments/assets/68adb96b-4235-404f-8183-a4bc9adff978)
+
+## 3) Verifying and testing the drivers
+
 
 ⚠️ :warning:	TO BE CONTINUED...
 
