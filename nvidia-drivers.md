@@ -3,8 +3,8 @@
 **Nvidia** is a leading company in the GPU market, specializing in graphics technology, artificial intelligence, machine learning and scientific computing, with high performance and parallel processing capabilities. 
 
 * To see the main page of the complete tutorial access [Nvidia Drivers configuration and verification for UBUNTU](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide).
-* To see the installation of the cuda toolkit go to [the CUDA Toolkit Installation Guide](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/cuda-toolkit.md).
-* To check and test the nvidia and cuda installations on your computer, go to [NVIDIA and CUDA testing guide](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/testing-cuda.md).
+* To see the installation of the cuda toolkit go to [the CUDA Toolkit Installation Guide](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/blob/main/cuda-toolkit.md).
+* To check and test the nvidia and cuda installations on your computer, go to [NVIDIA and CUDA testing guide](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/blob/main/testing-cuda.md).
 
 ## 1) Upgrading Ubuntu
 To make sure you have all the latest software, upgrade the system.
