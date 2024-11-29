@@ -3,8 +3,8 @@
 The **CUDA** (Compute Unified Device Architecture) is a parallel computing platform and programming model created by Nvidia, which allows developers to use GPUs for general-purpose computing tasks. Together with the Nvidia drivers, the CUDA Toolkit provides the tools needed to develop and optimize applications that take advantage of the power of Nvidia graphics cards.
 
 * To see the main page of the complete tutorial access [Nvidia Drivers configuration and verification for UBUNTU](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide).
-* To see the installation of the NVIDIA Drivers go to [the NVIDIA Drivers Installation Guide](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/nvidia-drivers.md).
-* To check and test the nvidia and cuda installations on your computer, go to [NVIDIA and CUDA testing guide](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/testing-cuda.md).
+* To see the installation of the NVIDIA Drivers go to [the NVIDIA Drivers Installation Guide](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/blob/main/nvidia-drivers.md).
+* To check and test the nvidia and cuda installations on your computer, go to [NVIDIA and CUDA testing guide](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/blob/main/testing-cuda.md).
 
 
 >❗ Make sure that you had already [installed the NVIDIA Drivers](https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/nvidia-drivers.md) before following the CUDA toolkit configuration steps. 
