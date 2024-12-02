@@ -48,4 +48,4 @@ At the top of the table, you can see the installed driver version and CUDA drive
 _In my case, I already have installed the NVIDIA 560 driver wich was recommended before, and that works good for me by now, although I got 565 recommended earlier._
 
 ## 4) Next step is setting up the CUDA toolkit to be able to use the NVIDIA drivers. 
-Check at https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/cuda-toolkit.md
+Check at https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/blob/main/cuda-toolkit.md
