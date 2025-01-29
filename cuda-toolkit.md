@@ -75,4 +75,4 @@ nvcc --version
 ![Captura de tela de 2024-11-29 09-24-50](https://github.com/user-attachments/assets/68adb96b-4235-404f-8183-a4bc9adff978)
 
 ## 6) Verifying and testing the drivers
-After installing the NVIDIA drivers and the CUDA Toolkit, you can run some tests to check that they are working correctly. Check the steps to confirm installation and operation at https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/testing-cuda.md
+After installing the NVIDIA drivers and the CUDA Toolkit, you can run some tests to check that they are working correctly. Check the steps to confirm installation and operation at https://github.com/lauramartinho/Nvidia-and-CUDA-configuration-full-guide/blob/main/testing-cuda.md
